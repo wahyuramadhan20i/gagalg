@@ -7,28 +7,28 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = API_ID
-API_HASH = "API_HASH"
+API_ID = 27275628
+API_HASH = "1f147a7010b1f675e9ed70913224d863"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "7853619626:AAGVsY91IcoVkJkNNkPJwNnNntNBpM6m3qk"
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "MONGO_DB_URI"
+MONGO_DB_URI = "mongosh "mongodb+srv://cluster0.sgjnj.mongodb.net/" --apiVersion 1 --username cncwahyu579"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = LOG_GROUP_ID
+LOG_GROUP_ID = https://t.me/botmusikaid
 
 # Get this value from @ultron2_robot on Telegram by /id
-OWNER_ID = OWNER_ID
+OWNER_ID = -1001861619812
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
+HEROKU_APP_NAME = getenv("Ckb musikk")
 # Get it from http://dashboard.heroku.com/account
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
+HEROKU_API_KEY = getenv("HRKU-96aaa3d7-569f-49d0-8f36-c67540a45292")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "STRING_SESSION"
+STRING1 = "BQGgMWwAP8j-UFcGfWJS_Wdlx4q_wxUa0NZJ_yk_uqBdmyt0A78PfrYisjxq-tNmp9wBghfPfzQYlr8YngVEWFV_IPQuxjEfqeLbtoqI0qUvX5dKleDf8Y02K8d0DmoY1leruJehzV31n_9IsWZ377mO3bHACMZf7vJxFKlrFlWVjAleyw330CMZYDq93AHK-vN3mB9bslibi9j-j17mdjlMzAX95cvps2a8NA5ynxJ2xZUQGMK6ZSDtwAv2cxSd_-65Vr17b-RBvYluvhaxWyPL1P0WLw1s1akV8wRA2JzwycRfXNVcik5xcit5CSxTo4-vFzicw4hIsTtGAhmNvWzdW_xapgAAAAF5aXYvAA"
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -77,9 +77,9 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+START_IMG_URL = "https://graph.org/file/ef15b781843c9b86936d5-078e603a900b9faafb.jpg"
 
-PING_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+PING_IMG_URL = "https://graph.org/file/ef15b781843c9b86936d5-078e603a900b9faafb.jpg"
 
 PLAYLIST_IMG_URL = "https://graph.org/file/763a841a2ad5cbb1e2fc5.jpg"
 STATS_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
